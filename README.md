@@ -2,9 +2,9 @@
 
 This will showcase my work as I venture down the road of learning full stack coding with MERN through the MITxPro Professional Certificate in Coding: Womens Cohort (April 2021).
 
-## Folders
+## Branches
 
-Folders will be dedicated to the 3 segments and 1 final project of the program.
+Branches will be dedicated to the 3 segments and 1 final project of the program.
 
   - Web Developement with JavaScript
   - Front End Developement with React
