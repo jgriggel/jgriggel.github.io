@@ -1,6 +1,6 @@
 # Welcome to my portfolio.
 
-This will showcase my work as I venture down the road of learning full stack coding with MERN through the MITxPro Professional Certificate in Coding: Womens Cohort (April 2021).
+This will showcase my work as I venture down the road of learning full stack coding with MERN through the MITxPro Professional Certificate in Coding: Womens Cohort (August 2021).
 
 ## Branches
 
